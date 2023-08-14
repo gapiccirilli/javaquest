@@ -1,0 +1,10 @@
+.btn {
+    border: none;
+    font-size: 1rem;
+    background-color: var(--site-main-color);
+    color: white;
+}
+
+.btn:hover {
+    cursor: pointer;
+}

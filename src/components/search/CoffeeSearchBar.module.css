@@ -1,0 +1,12 @@
+.coffeeSearch {
+    width: 28rem;
+    height: 2.5rem;
+    padding-left: 0.8rem;
+    font-size: 1rem;
+    border-radius: 2rem;
+    border: none;
+}
+
+.coffeeSearch::placeholder {
+    font-size: 1rem;
+}
