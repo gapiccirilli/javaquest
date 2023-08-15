@@ -1,6 +1,6 @@
 import styles from "./Home.module.css";
 import CafeList from "../components/sections/CafeList";
-import Map from "../components/sections/Map";
+import DataView from "../components/sections/DataView";
 import Favorites from "../components/sections/Favorites";
 
 export default function Home() {
@@ -8,7 +8,7 @@ export default function Home() {
     return (
       <main className={styles.home}>
         <CafeList />
-        <Map />
+        <DataView />
         <Favorites />
       </main>
     );
