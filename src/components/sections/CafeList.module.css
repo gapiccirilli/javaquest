@@ -1,0 +1,5 @@
+.cafeList {
+    background-color: white;
+    grid-row: 2 / 8;
+    grid-column: 2 / 5;
+}
