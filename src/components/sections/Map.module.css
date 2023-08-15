@@ -1,5 +1,10 @@
-.map {
+.mapContainer {
     background-color: white;
     grid-row: 2 / 8;
     grid-column: 5 / 13;
+}
+
+.map {
+    height: 100%;
+    border-radius: 0.2rem;
 }
